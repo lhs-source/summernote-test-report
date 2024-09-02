@@ -1,0 +1,47 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+
+.upbox-summernote .note-frame {
+  font-size: 18px;
+  line-height: 1.45;
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+}
+.upbox-summernote .note-frame h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+.upbox-summernote .note-frame h2 {
+  font-size: 40px;
+  font-weight: bold;
+}
+.upbox-summernote .note-frame h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.upbox-summernote .note-frame h4 {
+  font-size: 24px;
+  font-weight: bold;
+}
+.upbox-summernote .note-frame pre {
+  font-size: 16px;
+  background-color: rgb(222, 222, 222);
+  border-radius: 4px;
+  padding: 8px;
+}
+.upbox-summernote .note-frame blockquote {
+  padding: 8px;
+  border-left: 4px solid rgb(225, 169, 169);
+}
+/* 유튜브 iframe */
+.upbox-summernote .note-frame iframe {
+  width: 100%;
+}
+.upbox-summernote .note-frame figure {
+  display: inline-block;
+}
+.upbox-summernote .note-frame figcaption {
+  margin-top: 2px;
+  font-size: 14px;
+  color: rgb(153, 153, 153);
+  text-align: center;
+}
+
